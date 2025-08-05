@@ -35,6 +35,7 @@ In addition, I am passionate about **large language models (LLMs)**. My previous
 **Qiqi Liu**, Yuyan Sun, Runhan Song, Heng Zhang, Limin Sun
 
 [**Project**](https://github.com/vrmei/CAN-Tampering) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Dataset**](https://drive.google.com/drive/folders/1I9uHpOG8W_Fb9ShoNn6pQB_5Xm83wMww) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 </div>
 </div>
 
@@ -47,7 +48,16 @@ Runhan Song, **Qiqi Liu**, Lun Li, Lei Cui
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPADS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPADS</div><img src='images/ICAPDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Binary Malware Detection via Heterogeneous Information Deep Ensemble Learning](https://ieeexplore.ieee.org/document/10475976)
+
+Runhan Song, Lun Li, Lei Cui, **Qiqi Liu**, Jin Gao
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPADS</div><img src='images/privacy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Binary Malware Detection via Heterogeneous Information Deep Ensemble Learning](https://ieeexplore.ieee.org/document/10475976)
