@@ -67,18 +67,14 @@ Lei Zhang, Yu Huo, Qiang Ge, Yuxiang Ma, **Qiqi Liu**, Wenlei Ouyang
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
 - *2022.09 - 2025.07*: M.Eng. in Electronic Information, University of Chinese Academy of Sciences, Institute of Information Engineering.
 - *2018.09 - 2022.07*: B.Eng. in Information Security, Henan University.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships & Works
+# 💻 Internships
 - *2025.04 - Present*, Zseads Technology, AIGC Algorithm Engineer (Intern → Full-time).
 - *2024.10 - 2025.04*, China Telecom (TeleAI) EVOL Lab, AIGC Research Intern.
 - *2024.06 - 2024.10*, Alibaba Group, AIGC Research Intern.
