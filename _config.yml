@@ -1,4 +1,4 @@
-title                    : "Your Name - AIGC & Time Series Researcher"
+title                    : "Qiqi Liu - AIGC & Time Series Researcher"
 description              : "AI researcher focusing on diffusion models, time series forecasting, and AIGC"
 google_scholar_stats_use_cdn : false
 
@@ -12,12 +12,12 @@ baidu_site_verification  :
 
 author:
   name             : "Qiqi Liu"
-  avatar           : "images/android-chrome-512x512.png"  # 可替换成你的照片路径
+  avatar           : "images/677.jpeg"  # 可替换成你的照片路径
   bio              : "M.Sc in Electronic Information, AIGC Algorithm Engineer, Incoming Ph.D. Applicant"
   location         : "Beijing, China"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
   email            : "liuqiqi@iie.ac.cn"
-  github           : "https://github.com/vrmei"
+  github           : "vrmei"
 
 # Reading Files
 include:
