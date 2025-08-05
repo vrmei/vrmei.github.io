@@ -19,16 +19,11 @@ redirect_from:
 
 I am a **2025 master's graduate from the University of Chinese Academy of Sciences (UCAS)**, with extensive research and internship experience at top-tier AIGC and AI institutions such as **Alibaba**, **China Telecom (TeleAI)**, and **Meizu**.
 
-At **TeleAI**, I worked under the joint supervision of [**Prof. Jian Zhao**](https://zhaoj9014.github.io/) and **Prof. Chi Zhang**, the Vice Director of TeleAI. Our collaboration focused on **multimodal video generation** and **diffusion-based sequence modeling**.
+At **TeleAI's [EVOL Lab](https://zhaoj9014.github.io/index.html)**, I worked under the joint supervision of [**Prof. Jian Zhao**](https://zhaoj9014.github.io/) and **Prof. Chi Zhang**, the Vice Director of TeleAI. Our collaboration focused on **multimodal video generation** and **diffusion-based sequence modeling**.
 
 My research centers on **diffusion models**, **long-horizon time series forecasting**, and **multimodal generation**. A representative project is **3DTS**, a diffusion-based forecasting model that restructures temporal data representation to reduce information loss and enhance scalability. I plan to formally publish this work during my PhD.
 
 In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V), and I am eager to extend this direction further in my doctoral research.
-
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
