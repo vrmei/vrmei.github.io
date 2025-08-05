@@ -44,7 +44,7 @@ In addition, I am passionate about **large language models (LLMs)**. My previous
 
 [EMGCL: Contrastive Learning for Tor Fingerprinting in Reload Scenario]
 
-Runhan Song, **Qiqi Liu**, Lun Li, Lei Cui
+Runhan Song\*, **Qiqi Liu\***, Lun Li, Lei Cui
 </div>
 </div>
 
