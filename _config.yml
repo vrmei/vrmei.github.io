@@ -1,7 +1,6 @@
 title                    : "Your Name - AIGC & Time Series Researcher"
 description              : "AI researcher focusing on diffusion models, time series forecasting, and AIGC applications"
-repository               : "your_github_username/your_github_username.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # 可填写你自己的 GA ID
@@ -12,17 +11,15 @@ bing_site_verification   :
 baidu_site_verification  :  
 
 author:
-  name             : "Your Name"
+  name             : "Qiqi Liu"
   avatar           : "images/android-chrome-512x512.png"  # 可替换成你的照片路径
   bio              : "M.Sc in Electronic Information, AIGC Algorithm Engineer, Incoming Ph.D. Applicant"
   location         : "Beijing, China"
-  employer         : "Zseads Technology, Alibaba, China Telecom (TeleAI)"
+  employer         : "Zseads Technology, Alibaba, China Telecom (TeleAI), Meizu Technology"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
-  email            : "your_email@example.com"
-  github           : "your_github_username"
-  linkedin         : "your_linkedin_username"
+  email            : "liuqiqi@iie.ac.cn"
+  github           : "https://github.com/vrmei"
   orcid            : "https://orcid.org/xxxx-xxxx-xxxx-xxxx"
-  dblp             : "https://dblp.org/pid/xx/xxxx.html"
 
 # Reading Files
 include:
