@@ -15,11 +15,9 @@ author:
   avatar           : "images/android-chrome-512x512.png"  # 可替换成你的照片路径
   bio              : "M.Sc in Electronic Information, AIGC Algorithm Engineer, Incoming Ph.D. Applicant"
   location         : "Beijing, China"
-  employer         : "Zseads Technology, Alibaba, China Telecom (TeleAI), Meizu Technology"
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_ID"
   email            : "liuqiqi@iie.ac.cn"
   github           : "https://github.com/vrmei"
-  orcid            : "https://orcid.org/xxxx-xxxx-xxxx-xxxx"
 
 # Reading Files
 include:
