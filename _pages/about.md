@@ -25,12 +25,12 @@ My research centers on **diffusion models**, **long-horizon time series forecast
 
 In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V), and I am eager to extend this direction further in my doctoral research.
 
-# 📝 Publications 
+# 📝 Research 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (under revision)</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (under revision)</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIDS: Detecting Tampering Attacks on CAN Bus with Bidirectional Mamba](docs/MIDS.pdf)
+[MIDS: Detecting Tampering Attacks on CAN Bus with Bidirectional Mamba](images/MIDS.pdf)
 
 **Qiqi Liu**, Yuyan Sun, Runhan Song, Heng Zhang, Limin Sun
 
