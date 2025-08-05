@@ -23,7 +23,7 @@ At **TeleAI's [EVOL Lab](https://zhaoj9014.github.io/index.html)**, I worked und
 
 My research centers on **diffusion models**, **long-horizon time series forecasting**, and **multimodal generation**. A representative project is **3DTS**, a diffusion-based forecasting model that restructures temporal data representation to reduce information loss and enhance scalability. I plan to formally publish this work during my PhD.
 
-In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V), and I am eager to extend this direction further in my doctoral research.<img src="https://img.shields.io/badge/citations-123-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat">
+In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V), and I am eager to extend this direction further in my doctoral research.<img src="https://img.shields.io/badge/citations-22-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat">
 
 # 📝 Research 
 
