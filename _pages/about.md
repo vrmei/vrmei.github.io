@@ -48,7 +48,7 @@ Runhan Song, **Qiqi Liu**, Lun Li, Lei Cui
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPADS</div><img src='images/ICAPDS.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPADS 2023</div><img src='images/ICAPDS.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Binary Malware Detection via Heterogeneous Information Deep Ensemble Learning](https://ieeexplore.ieee.org/document/10475976)
@@ -57,16 +57,14 @@ Runhan Song, Lun Li, Lei Cui, **Qiqi Liu**, Jin Gao
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICPADS</div><img src='images/privacy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WCMC</div><img src='images/privacy.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Binary Malware Detection via Heterogeneous Information Deep Ensemble Learning](https://ieeexplore.ieee.org/document/10475976)
+[A Privacy Protection Scheme for IoT Big Data Based on Time and Frequency Limitation](https://onlinelibrary.wiley.com/doi/10.1155/2021/5545648)
 
-Runhan Song, Lun Li, Lei Cui, **Qiqi Liu**, Jin Gao
+Lei Zhang, Yu Huo, Qiang Ge, Yuxiang Ma, **Qiqi Liu**, Wenlei Ouyang
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
