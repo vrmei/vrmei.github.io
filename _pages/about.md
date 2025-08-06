@@ -66,10 +66,6 @@ Lei Zhang, Yu Huo, Qiang Ge, Yuxiang Ma, **Qiqi Liu**, Wenlei Ouyang
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *2021.10* 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📖 Educations
 - *2022.09 - 2025.07*: M.Eng. in Electronic Information, University of Chinese Academy of Sciences, Institute of Information Engineering.
 - *2018.09 - 2022.07*: B.Eng. in Information Security, Henan University.
