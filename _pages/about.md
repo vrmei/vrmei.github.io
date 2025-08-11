@@ -23,7 +23,7 @@ At **TeleAI's [EVOL Lab](https://zhaoj9014.github.io/index.html)**, I worked und
 
 My research centers on **diffusion models**, **long-horizon time series forecasting**, and **multimodal generation**. A representative project is **3DTS**, a diffusion-based forecasting model that restructures temporal data representation to reduce information loss and enhance scalability. I plan to formally publish this work during my PhD.
 
-In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V), and I am eager to extend this direction further in my doctoral research.<img src="https://img.shields.io/badge/citations-22-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat">
+In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V), and I am eager to extend this direction further in my doctoral research.<img src="https://img.shields.io/badge/citations-24-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat">
 
 # 📝 Research 
 
@@ -39,7 +39,7 @@ In addition, I am passionate about **large language models (LLMs)**. My previous
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TBD</div><img src='images/mo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [EMGCL: Contrastive Learning for Tor Fingerprinting in Reload Scenario]
@@ -54,6 +54,15 @@ Runhan Song\*, **Qiqi Liu\***, Lun Li, Lei Cui
 [Binary Malware Detection via Heterogeneous Information Deep Ensemble Learning](https://ieeexplore.ieee.org/document/10475976)
 
 Runhan Song, Lun Li, Lei Cui, **Qiqi Liu**, Jin Gao
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WAC 2021</div><img src='images/bin.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Binary Vulnerability Mining Based on Long Short-Term Memory Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9559467)
+
+Wenlei Ouyang, Meng Li, **Qiqi Liu**, Jianchao Wang
 </div>
 </div>
 
