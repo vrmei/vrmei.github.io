@@ -27,7 +27,7 @@ In addition, I am passionate about **large language models (LLMs)**. My previous
 
 <img src="https://img.shields.io/badge/citations-24-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat">
 
-# 📝 Research 
+# 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (under revision)</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +76,11 @@ Wenlei Ouyang, Meng Li, **Qiqi Liu**, Jianchao Wang
 Lei Zhang, Yu Huo, Qiang Ge, Yuxiang Ma, **Qiqi Liu**, Wenlei Ouyang
 </div>
 </div>
+
+# 📖 Professional Service
+- Reviewer, IEEE Transactions on Information Forensics and Security (TIFS), 2024–2025 (2 papers)-
+- Reviewer, IEEE Transactions on Circuits and Systems for Video Technology(TISVT), 2024-2025 (2 papers)
+- Reviewer, IEEE Transcations on Multimedia(TMM), 2024-2025(1 paper)
 
 # 📖 Educations
 - *2022.09 - 2025.07*: M.Eng. in Electronic Information, University of Chinese Academy of Sciences, Institute of Information Engineering.
