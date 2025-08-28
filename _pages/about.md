@@ -24,6 +24,7 @@ At **TeleAI's [EVOL Lab](https://zhaoj9014.github.io/index.html)**, I worked und
 My research centers on **diffusion models**, **long-horizon time series forecasting**, and **multimodal generation**. A representative project is **3DTS**, a diffusion-based forecasting model that restructures temporal data representation to reduce information loss and enhance scalability. I plan to formally publish this work during my PhD.
 
 In addition, I am passionate about **large language models (LLMs)**. My previous work involved **LLM-based UI agents**, **multimodal alignment**, and fine-tuning visual-language models (e.g., Qwen-VL-Chat, GLM4V).
+
 <img src="https://img.shields.io/badge/citations-24-9cf?logo=Google%20Scholar&labelColor=f6f6f6&style=flat">
 
 # 📝 Research 
@@ -85,3 +86,13 @@ Lei Zhang, Yu Huo, Qiang Ge, Yuxiang Ma, **Qiqi Liu**, Wenlei Ouyang
 - *2024.10 - 2025.04*, China Telecom (TeleAI) EVOL Lab, AIGC Research Intern.
 - *2024.06 - 2024.10*, Alibaba Group, AIGC Research Intern.
 - *2024.03 - 2024.06*, Meizu Technology, AI Vision Intern.
+
+# 🏆 Selected Competitions:
+- 2023, 8th Place Nationwide, DataCon Data Security Competition
+  _Focused on large-scale data processing, anomaly detection, and predictive modeling under real-world constraints._
+- 2021, 20th Place Nationwide, StrongNet Cup Cybersecurity Challenge
+  _Applied algorithmic reasoning and system modeling techniques to detect vulnerabilities and optimize performance._
+- 2021, 16th Place Nationwide, Red Hat Cup Cybersecurity Competition
+  _Developed automated analysis pipelines for threat detection, demonstrating problem-solving and coding proficiency in complex environments._
+- 2019, First Prize, ISCC National Information Security Competition
+  _National-level competition emphasizing analytical thinking, algorithm design, and teamwork in solving large-scale technical challenges._
