@@ -3,7 +3,7 @@ description              : "AI researcher focusing on diffusion models, time ser
 google_scholar_stats_use_cdn : false
 
 # google analytics
-google_analytics_id      :  # 可填写你自己的 GA ID
+# google_analytics_id      :  # 可填写你自己的 GA ID
 
 # SEO Related（可选）
 google_site_verification :  
