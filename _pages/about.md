@@ -32,7 +32,7 @@ In addition, I am passionate about **large language models (LLMs)**. My previous
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS (under revision)</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIDS: Detecting Tampering Attacks on CAN Bus with Bidirectional Mamba](images/MIDS.pdf)
+[MIDS: Detecting Tampering Attacks on CAN Bus with Bidirectional Mamba](images/MIDS Detecting Tampering Attacks on CAN Bus with Bidirectional Mamba.pdf)
 
 **Qiqi Liu**, Yuyan Sun, Runhan Song, Heng Zhang, Limin Sun
 
