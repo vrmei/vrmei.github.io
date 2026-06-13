@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a **2025 master's graduate from the University of Chinese Academy of Sciences (UCAS)**, currently a **Research Intern at the Max Planck Institute for Security and Privacy (MPI-SP)**, working remotely under the supervision of [**Prof. Thorsten Holz**](https://cispa.de/en/people/c01thho).
+I am a **2025 master's graduate from the University of Chinese Academy of Sciences (UCAS)**, currently a **Research Intern at the Max Planck Institute for Security and Privacy (MPI-SP)**, working under the supervision of [**Prof. Thorsten Holz**](https://www.mpi-sp.org/holz).
 
 My research investigates the **safety, robustness, and trustworthiness of LLM-integrated systems**, with a focus on **multi-agent architectures** and **adversarial evaluation**. I am particularly interested in characterizing attacks along a continuous **syntactic–semantic spectrum** and developing adaptive defenses that respond to the interpretation depth each threat requires. A representative line of work is the **"Capability Paradox"** in hierarchical multi-agent systems — showing that *stronger* auditor LLMs can paradoxically *reduce* overall system security by expanding the attack surface through cross-context instruction handling.
 
