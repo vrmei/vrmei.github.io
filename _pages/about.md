@@ -32,7 +32,7 @@ This security focus is grounded in an extensive engineering background in **gene
 
 The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure
 
-**Qiqi Liu**, Thorsten Holz, Runhan Song, Shuo Ye
+**Qiqi Liu**, Thorsten Holz, Runhan Song, Shilin Ye
 
 *Submitted to NeurIPS 2026 — LLM Robustness & Multi-Agent Security.* Lead & corresponding author: proposed the capability paradox framework, and led experimental design, evaluation, and writing.
 </div>
