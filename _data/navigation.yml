@@ -3,14 +3,20 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Research"
-    url: "/#-Research"
+  - title: "Publications"
+    url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Professional Service"
+    url: "/#-professional-service"
 
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Research Experience"
+    url: "/#-research-experience"
+
+  - title: "Industry Experience"
+    url: "/#-industry-experience"
+
+  - title: "Projects & Competitions"
+    url: "/#-selected-projects--competitions"
