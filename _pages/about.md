@@ -27,7 +27,7 @@ This security focus is grounded in an extensive engineering background in **gene
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (Under Review)</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (Under Review)</div><img src='images/architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure
