@@ -87,25 +87,8 @@ Wenlei Ouyang, Meng Li, **Qiqi Liu**, Jianchao Wang
 </div>
 </div>
 
-# 📖 Professional Service
-- Reviewer, IEEE Transactions on Information Forensics and Security (TIFS), 2024–2025 (2 papers)
-- Reviewer, IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024–2025 (2 papers)
-- Reviewer, IEEE Transactions on Multimedia (TMM), 2024–2025 (1 paper)
-
-# 📖 Educations
-- *2022.09 - 2025.07*: M.Sc. in Electronic Information, University of Chinese Academy of Sciences (Recommended Admission). GPA 3.64/4.00, Top 15%.
-- *2018.09 - 2022.07*: B.Eng. in Information Security, Henan University. Top 5%.
-
 # 🔬 Research Experience
 - *2026.02 - Present*, **Max Planck Institute for Security and Privacy (MPI-SP)**, Research Intern (Remote). Advisor: Prof. Thorsten Holz. Multi-agent system security & adversarial evaluation of tool-integrated LLM agents.
 - *2024.10 - 2025.04*, **China Telecom (TeleAI), EVOL Lab**, AIGC Research Intern. Depth-conditioned, fidelity-preserving video synthesis; ControlNeXt + CogVideoX on 720K clips (~7TB), distributed training on 4×8×H100.
 - *2024.06 - 2024.10*, **Alibaba Group, AI Algorithm Department**, AIGC Research Intern. Style-image synthesis and multimodal fine-tuning (SDXL, DiT); LoRA on image–text pairs.
 - *2024.03 - 2024.06*, **Meizu Technology, AI Vision Algorithm Department**, AI Algorithm Intern. Assistive phone-UI agents; vision-language models (Qwen-VL-Chat, GLM4V) and a verifiable OCR + detection + LLM framework.
-
-# 💻 Industry Experience
-- *2025.04 - 2025.12*, **Zseads Technology**, AIGC Algorithm Engineer (Intern → Full-time). Flux-Fill restoration LoRA framework (memory down to ~25%, ZeRO-3); SOTA-level hand-restoration pipeline based on Wan2.1.
-
-# 🏆 Selected Projects & Competitions
-- **Project 3DTS — Diffusion-Based Long-term Time Series Synthesis.** A diffusion probabilistic framework for time-series modeling that addresses the scalability bottleneck of Transformer-based models over extended horizons, with a custom refinement network for temporal stability.
-- 2023, 8th Place Nationwide, DataCon Data Integrity and Reliability Competition.
-- 2019, First Prize, ISCC National Information Protection and Technical Excellence Competition.

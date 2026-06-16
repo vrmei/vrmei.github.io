@@ -6,17 +6,5 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Professional Service"
-    url: "/#-professional-service"
-
-  - title: "Educations"
-    url: "/#-educations"
-
   - title: "Research Experience"
     url: "/#-research-experience"
-
-  - title: "Industry Experience"
-    url: "/#-industry-experience"
-
-  - title: "Projects & Competitions"
-    url: "/#-selected-projects--competitions"
