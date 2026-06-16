@@ -1,0 +1,9 @@
+# Treat binary assets as binary so Git never applies EOL (LF<->CRLF) conversion,
+# which would corrupt them on checkout/clone (esp. on Windows with core.autocrlf=true).
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary

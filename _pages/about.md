@@ -23,6 +23,8 @@ My research investigates the **safety, robustness, and trustworthiness of LLM-in
 
 This security focus is grounded in an extensive engineering background in **generative AI**. Through research and internships at **China Telecom (TeleAI)**, **Alibaba**, and **Meizu**, I have built and fine-tuned diffusion and video-synthesis models (CogVideoX, SDXL, DiT) and vision-language models (Qwen-VL-Chat, GLM4V) at scale — giving me a deep, systems-level understanding of the very models I now aim to secure.
 
+📄 **[Curriculum Vitae (PDF)](files/CV_Qiqi_Liu.pdf)**
+
 <img src="https://img.shields.io/endpoint?url={{ url }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations">
 
 # 📝 Publications 
@@ -30,7 +32,7 @@ This security focus is grounded in an extensive engineering background in **gene
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 (Under Review)</div><img src='images/architecture.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure
+[The Capability Paradox: How Smarter Auditors Make Multi-Agent Systems Less Secure](https://arxiv.org/abs/2605.17480)
 
 **Qiqi Liu**, Thorsten Holz, Runhan Song, Shilin Ye
 
