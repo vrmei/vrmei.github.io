@@ -43,9 +43,9 @@ This security focus is grounded in an extensive engineering background in **gene
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIFS (Under Revision)</div><img src='images/mamba.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[MIDS: Monitoring Anomalies with Bidirectional Mamba](https://arxiv.org/abs/2606.18599)
+[MIDS: Detecting Stealthy Masquerade and Tampering Attacks on CAN Bus via Bidirectional Mamba](https://arxiv.org/abs/2606.18599)
 
-**Qiqi Liu**, Yuyan Sun, Runhan Song, Heng Zhang, Limin Sun
+**Qiqi Liu**, Runhan Song, Lei Cui, Heng Zhang, Yuyan Sun, Limin Sun
 
 [**Project**](https://github.com/vrmei/CAN-Tampering) [**Dataset**](https://drive.google.com/drive/folders/1I9uHpOG8W_Fb9ShoNn6pQB_5Xm83wMww)
 </div>
